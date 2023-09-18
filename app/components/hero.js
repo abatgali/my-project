@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-
+import Image from 'next/image'
 
 export default function Hero() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -63,7 +63,7 @@ export default function Hero() {
 
                   <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
                   
-                  How can you get in on the action, you ask? It's simple! Just join or create your own club for a tiny fee and bask in the glory of the UCI community. Leave ordinary behind, join ClubConnect today!
+                  How can you get in on the action, you ask? It&apos;s simple! Just join or create your own club for a tiny fee and bask in the glory of the UCI community. Leave ordinary behind, join ClubConnect today!
                   </p>
                   <div className="mt-10 flex items-center gap-x-6">
                     <a
@@ -84,8 +84,7 @@ export default function Hero() {
                       <img
                         src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=528&q=80"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
-                      />
+                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"/>
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                   </div>
@@ -94,16 +93,14 @@ export default function Hero() {
                       <img
                         src="https://images.unsplash.com/photo-1485217988980-11786ced9454?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=528&q=80"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
-                      />
+                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                     <div className="relative">
                       <img
                         src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-x=.4&w=396&h=528&q=80"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
-                      />
+                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                   </div>
@@ -120,8 +117,7 @@ export default function Hero() {
                       <img
                         src="https://images.unsplash.com/photo-1670272505284-8faba1c31f7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=528&q=80"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
-                      />
+                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
                   </div>
