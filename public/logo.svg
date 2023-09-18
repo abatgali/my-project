@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250.11 249.23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="124.62" x2="250.11" y2="124.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <path class="cls-3" d="m250.04,87.44c-.38,23.56,1.87,50.35-5.23,72.99-11.88,41.88-47.11,75.91-89.5,86-.08-.12-.16-.25-.24-.37-.09.2-.17.4-.26.6-10.41,3.23-22.93,2.49-33.75,2.51-43.08,1.56-84.27-25.98-105.06-62.88C6.75,169.45.98,150.66.07,131.45.32,107.46-.11,23.01.03.36c26.16.64,52.95-2.32,78.79,2.23,25.57,7.23,44.52,30.4,46.1,56.98,2.07-24.61,17.97-47.59,41.85-55.52,25.31-7.12,52.92-2.4,78.96-3.68,2.02.17,4.67-.44,4.35,2.49,0,3.52-.02,7.05-.04,10.57,0,0,0,47.26,0,47.26-.14.1-.28.21-.42.32.14.14.28.28.42.43-.03,7.94.06,18.19,0,26Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="236.54" y1="393.71" x2="552.54" y2="393.71" gradientTransform="translate(-262 -269)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-3" d="m250.04,87.44c-.38,23.56,1.87,50.35-5.23,72.99-11.88,41.88-47.11,75.91-89.5,86-.08-.12-.16-.25-.24-.37-.09.2-.17.4-.26.6-10.41,3.23-22.93,2.49-33.75,2.51-43.08,1.56-84.27-25.98-105.06-62.88C6.75,169.45.98,150.66.07,131.45.32,107.46-.11,23.01.03.36c26.16.64,52.95-2.32,78.79,2.23,25.57,7.23,44.52,30.4,46.1,56.98,2.07-24.61,17.97-47.59,41.85-55.52,25.31-7.12,52.92-2.4,78.96-3.68,2.02.17,4.67-.44,4.35,2.49,0,3.52-.02,7.05-.04,10.57,0,0,0,47.26,0,47.26-.14.1-.28.21-.42.32.14.14.28.28.42.43-.03,7.94.06,18.19,0,26Z"/>
+      <g class="cls-2">
+        <rect class="cls-1" x="-25.46" y="-18.79" width="316" height="287" transform="translate(7.83 257.25) rotate(-90)"/>
+      </g>
+    </g>
+  </g>
+</svg>
